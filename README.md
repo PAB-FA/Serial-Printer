@@ -10,7 +10,7 @@ Auto Scroll -> Scrolls down automatically
 Read String -> receives the data in its real form
 Auto Go End -> automatically goes to the end of the line
 Data Analysis (ROLAN) -> this feature automatically if you have done the following:
-> TX COD
+-> TX COD
  Serial.print("A");
  Serial.print(A);
  Serial.print("B");
@@ -20,7 +20,7 @@ Data Analysis (ROLAN) -> this feature automatically if you have done the followi
  Serial.print("AREF");
  Serial.print(V);
  Serial.println();
-> RX COD
+-> RX COD
 A234B453C56732AREF6
 It analyzes the data, writes its name, and displays the minimum, maximum, average, and moment of the number for you in the form of a list. This program can analyze data from 1 to 5 data.
 Max char in Line -> specifies the maximum character in a line
