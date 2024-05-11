@@ -4,7 +4,7 @@ A professional program to receive data from the serial port (suitable for robots
 The program has been converted into an executable file for Windows with Tinker and is open source. Just run the PSP program in the Prog folder and work with it easily.
 First, refresh the port and select the desired port
 If the parameters below are correct, i.e. the port settings (such as Baud rate , Time Sleep , Byte Size , Stop Bit And...) click on the connection and wait for a few moments. If the port is correct, the connection is made and the data is displayed on the monitor.
-Print settings
+\nPrint settings
 Print Time -> Displays the system time
 Auto Scroll -> Scrolls down automatically
 Read String -> receives the data in its real form
