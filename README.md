@@ -1,4 +1,4 @@
-A professional program to receive information from the serial port (suitable for robots) + has a serial plotter
+A professional program to receive information from the serial port (Suitable for robotics engineers) + has a serial plotter
 ## Screenshots
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/1.png" />
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/3.png" />
