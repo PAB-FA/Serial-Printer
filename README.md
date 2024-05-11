@@ -8,6 +8,14 @@ This program is converted to an executable file for Windows with Tinker and is o
 - First, refresh the port and select the desired port. If the following comments are correct, that is, the port rate (such as Baud rate, Time Sleep, Byte Size, Stop Bit, etc.), click on connect and wait for a few moments. do. . . If the port is correct, it is connected and can be displayed on the monitor.
 - Print Time -> Print Display System Time ,Auto Scroll -> Auto scroll down ,Read String -> Gets the data in real form Auto ,Go End -> Automatically go to the end of
 - of the data analysis line (ROLAN) -> This feature automatically if you do the following: ardiuno code :
-```
-Serial.print("A"); Serial.print(A); Serial.print("B"); Serial.print(B); Serial.print("C"); Serial.print(C); Serial.print("AREF"); Serial.print(V); Serial.println();
+```terminal
+Serial.print("A");
+Serial.print(A);
+Serial.print("B");
+Serial.print(B);
+Serial.print("C");
+Serial.print(C);
+Serial.print("AREF");
+Serial.print(V);
+Serial.println();
 ```
