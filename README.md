@@ -3,11 +3,23 @@ A professional program to receive information from the serial port (suitable for
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/1.png" />
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/3.png" />
 
-This program is converted to an executable file for Windows with Tinker and is open source. Just run the PSP program in the PSP folder and work with it easily.( Note that the plotter program has not been uploaded due to the large volume, and if you need it, you should use Tinker to convert the PTSP code in the code folder to an executable EXE file with the same name, and make sure that the two files V.TXT & PORT. TXT should be available in that location, also the executable file and two text files should be in the location of PSP.EXE)
+## Demo
+You can download the latest beta version for your Windows from [here](https://github.com/PAB-FA/Serial-Printer/releases/tag/V0.2)
+
+
 
 ## Exampel
 
+This app is made with Tinker. You can convert the PSP and PTSP that are in the code folder into an executable file and place it in the same folder as in the image below to make it work properly.
+
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/2.png" />
+
+-These libraries are prerequisites
+```terminal
+pip install tkinter
+pip install serial
+pip install PyQt5 
+```
 
 ## How Work
 
