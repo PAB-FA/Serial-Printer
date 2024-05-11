@@ -4,13 +4,13 @@ A professional program to receive data from the serial port (suitable for robots
 The program has been converted into an executable file for Windows with Tinker and is open source. Just run the PSP program in the Prog folder and work with it easily.
 First, refresh the port and select the desired port
 If the parameters below are correct, i.e. the port settings (such as Baud rate , Time Sleep , Byte Size , Stop Bit And...) click on the connection and wait for a few moments. If the port is correct, the connection is made and the data is displayed on the monitor.
-\nPrint settings
+Print settings
 Print Time -> Displays the system time
 Auto Scroll -> Scrolls down automatically
 Read String -> receives the data in its real form
 Auto Go End -> automatically goes to the end of the line
 Data Analysis (ROLAN) -> this feature automatically if you have done the following:
--> TX COD
+ ardiuno code :
  Serial.print("A");
  Serial.print(A);
  Serial.print("B");
@@ -20,7 +20,7 @@ Data Analysis (ROLAN) -> this feature automatically if you have done the followi
  Serial.print("AREF");
  Serial.print(V);
  Serial.println();
--> RX COD
+output cod :
 A234B453C56732AREF6
 It analyzes the data, writes its name, and displays the minimum, maximum, average, and moment of the number for you in the form of a list. This program can analyze data from 1 to 5 data.
 Max char in Line -> specifies the maximum character in a line
