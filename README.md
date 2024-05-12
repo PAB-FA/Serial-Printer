@@ -3,7 +3,7 @@ A professional program to receive information from the serial port (Suitable for
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/1.png" />
 <img src="https://github.com/PAB-FA/Serial-Printer/blob/main/Img/3.png" />
 
-## Demo
+## Download Demo
 You can download the latest beta version for your Windows from [here](https://github.com/PAB-FA/Serial-Printer/releases/tag/V0.2)
 
 
